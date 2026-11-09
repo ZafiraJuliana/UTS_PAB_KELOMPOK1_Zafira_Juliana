@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue_127">#1E3A8A</color>
+    <color name="primary_variant_127">#1D4ED8</color>
+    <color name="accent_blue_127">#2563EB</color>
+    <color name="background_gray_127">#F8FAFC</color>
+    <color name="card_background_127">#FFFFFF</color>
+    <color name="text_dark_127">#1E293B</color>
+    <color name="text_muted_127">#64748B</color>
+    <color name="red_danger_127">#EF4444</color>
+</resources>

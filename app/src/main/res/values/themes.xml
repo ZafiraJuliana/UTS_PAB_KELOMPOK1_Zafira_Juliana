@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.UTS_CatatanHarian" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue_127</item>
+        <item name="colorPrimaryVariant">@color/primary_variant_127</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/background_gray_127</item>
+    </style>
+
+    <style name="Theme.UTS_CatatanHarian" parent="Base.Theme.UTS_CatatanHarian" />
+</resources>
